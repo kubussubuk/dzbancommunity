@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Dzban Community™",
-    "currentPage": "index.html",
+    "currentPage": "partnerstwa.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5897,9 +5897,9 @@
         }
       ]
     },
-    "page11.html": {
+    "partnerstwa.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Partnerstwa Dzban Community™",
         "title": "Partnerstwa",
         "order": 10
       },
